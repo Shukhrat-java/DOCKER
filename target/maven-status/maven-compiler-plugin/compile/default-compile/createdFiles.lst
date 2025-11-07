@@ -1,0 +1,8 @@
+logpass\exception\InvalidCredentials.class
+logpass\service\AuthorizationService.class
+logpass\model\Authorities.class
+logpass\handler\GlobalExceptionHandler.class
+logpass\controller\AuthorizationController.class
+logpass\DemokApplication.class
+logpass\exception\UnauthorizedUser.class
+logpass\repository\UserRepository.class
